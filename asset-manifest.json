@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/OnlineCV/static/css/main.7392b6d5.chunk.css",
-    "main.js": "/OnlineCV/static/js/main.a4b4adba.chunk.js",
-    "main.js.map": "/OnlineCV/static/js/main.a4b4adba.chunk.js.map",
+    "main.js": "/OnlineCV/static/js/main.d2d383bc.chunk.js",
+    "main.js.map": "/OnlineCV/static/js/main.d2d383bc.chunk.js.map",
     "runtime-main.js": "/OnlineCV/static/js/runtime-main.ef8f0a0e.js",
     "runtime-main.js.map": "/OnlineCV/static/js/runtime-main.ef8f0a0e.js.map",
     "static/js/2.7f0597e0.chunk.js": "/OnlineCV/static/js/2.7f0597e0.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.ef8f0a0e.js",
     "static/js/2.7f0597e0.chunk.js",
     "static/css/main.7392b6d5.chunk.css",
-    "static/js/main.a4b4adba.chunk.js"
+    "static/js/main.d2d383bc.chunk.js"
   ]
 }
