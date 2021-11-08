@@ -1,26 +1,25 @@
 {
   "files": {
-    "main.css": "/OnlineCV/static/css/main.3a0551dc.chunk.css",
-    "main.js": "/OnlineCV/static/js/main.1eefd5b1.chunk.js",
-    "main.js.map": "/OnlineCV/static/js/main.1eefd5b1.chunk.js.map",
-    "runtime-main.js": "/OnlineCV/static/js/runtime-main.9285e77a.js",
-    "runtime-main.js.map": "/OnlineCV/static/js/runtime-main.9285e77a.js.map",
+    "main.css": "/OnlineCV/static/css/main.243e4887.chunk.css",
+    "main.js": "/OnlineCV/static/js/main.25adb6ec.chunk.js",
+    "main.js.map": "/OnlineCV/static/js/main.25adb6ec.chunk.js.map",
+    "runtime-main.js": "/OnlineCV/static/js/runtime-main.167edfab.js",
+    "runtime-main.js.map": "/OnlineCV/static/js/runtime-main.167edfab.js.map",
     "static/css/2.4e8d0616.chunk.css": "/OnlineCV/static/css/2.4e8d0616.chunk.css",
-    "static/js/2.5d408cc9.chunk.js": "/OnlineCV/static/js/2.5d408cc9.chunk.js",
-    "static/js/2.5d408cc9.chunk.js.map": "/OnlineCV/static/js/2.5d408cc9.chunk.js.map",
-    "static/js/3.43be9aad.chunk.js": "/OnlineCV/static/js/3.43be9aad.chunk.js",
-    "static/js/3.43be9aad.chunk.js.map": "/OnlineCV/static/js/3.43be9aad.chunk.js.map",
+    "static/js/2.cf67efe6.chunk.js": "/OnlineCV/static/js/2.cf67efe6.chunk.js",
+    "static/js/2.cf67efe6.chunk.js.map": "/OnlineCV/static/js/2.cf67efe6.chunk.js.map",
+    "static/js/3.5050b975.chunk.js": "/OnlineCV/static/js/3.5050b975.chunk.js",
+    "static/js/3.5050b975.chunk.js.map": "/OnlineCV/static/js/3.5050b975.chunk.js.map",
     "index.html": "/OnlineCV/index.html",
     "static/css/2.4e8d0616.chunk.css.map": "/OnlineCV/static/css/2.4e8d0616.chunk.css.map",
-    "static/css/main.3a0551dc.chunk.css.map": "/OnlineCV/static/css/main.3a0551dc.chunk.css.map",
-    "static/js/2.5d408cc9.chunk.js.LICENSE.txt": "/OnlineCV/static/js/2.5d408cc9.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/OnlineCV/static/media/logo.6ce24c58.svg"
+    "static/css/main.243e4887.chunk.css.map": "/OnlineCV/static/css/main.243e4887.chunk.css.map",
+    "static/js/2.cf67efe6.chunk.js.LICENSE.txt": "/OnlineCV/static/js/2.cf67efe6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9285e77a.js",
+    "static/js/runtime-main.167edfab.js",
     "static/css/2.4e8d0616.chunk.css",
-    "static/js/2.5d408cc9.chunk.js",
-    "static/css/main.3a0551dc.chunk.css",
-    "static/js/main.1eefd5b1.chunk.js"
+    "static/js/2.cf67efe6.chunk.js",
+    "static/css/main.243e4887.chunk.css",
+    "static/js/main.25adb6ec.chunk.js"
   ]
 }
